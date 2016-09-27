@@ -8,6 +8,7 @@ public class BilKlass {
     private String tillverkare;
     private int modell;
     private int antalDörrar;
+    private int inte;
 
     public BilKlass(String tillVerkare, int modell, int antalDörrar) {
         this.tillverkare = tillVerkare;
